@@ -36,10 +36,10 @@ Edit the `config.json` file and add your bot token:
 {
     "TOKEN": "YOUR_BOT_TOKEN",
     "GUILD_ID": "YOUR_SERVER_ID",
-    "CHANNEL_NAME": "nuked-channel",
-    "WEBHOOK_MESSAGE": "Server Nuked!",
-    "SPAM_SPEED": 1,
-    "CHANNEL_BATCH": 5
+    "CHANNEL_NAME": "Fucked by Rostu",
+    "WEBHOOK_MESSAGE": "Fucked by rostu",
+    "SPAM_SPEED": 0.2,
+    "CHANNEL_BATCH": 150
 }
 ```
 
