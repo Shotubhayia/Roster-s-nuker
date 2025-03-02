@@ -48,11 +48,11 @@ Edit the `config.json` file and add your bot token:
 ##  **How to Run**
 ### **For Termux**
 ```bash
-python bot.py
+python Roster.py
 ```
 ### **For Terminal (Windows/Linux)**
 ```bash
-python3 bot.py
+python3 Roster.py
 ```
 
 ---
